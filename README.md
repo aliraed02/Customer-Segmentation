@@ -10,7 +10,7 @@ The Customer Segmentation project focuses on leveraging machine learning techniq
 
 - **Feature Engineering:** Extract and engineer features that capture the essence of customer behavior, demographics, and interactions with the business.
 
-- **Machine Learning Models:** Implement clustering algorithms such as K-means, hierarchical clustering, or DBSCAN to segment customers into distinct groups.
+- **Machine Learning Models:** Implement clustering algorithms such as K-means to segment customers into distinct groups.
 
 - **Visualization:** Create visualizations to represent customer segments, making it easier to interpret and communicate insights to stakeholders.
 
@@ -24,6 +24,6 @@ The Customer Segmentation project focuses on leveraging machine learning techniq
 
 3. **Feature Engineering:** Engineer features or transform existing ones to enhance the model's ability to capture meaningful distinctions between customer segments.
 
-4. **Model Training:** Implement clustering algorithms (K-Nearest Neighbor) and train the model on the prepared dataset.
+4. **Model Training:** Implement clustering algorithms (K-Means) and train the model on the prepared dataset.
 
 5. **Visualization:** Create visualizations to represent the identified customer segments and their characteristics.
